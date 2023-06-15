@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #FAE6C0;
+}
+
+img {
+    width: 1000px;
+}
